@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giveefighu.mrkn.us/sitemap.xml
